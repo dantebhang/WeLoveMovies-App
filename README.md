@@ -5,6 +5,18 @@ A provided React [front-end application](https://github.com/Thinkful-Ed/starter-
 <br>
 [Live demo](https://movies-frontend-db.herokuapp.com/)
 
+## Installation 
+1. Fork/Clone this repo
+2. Run `cp ./movies-backend/.env.sample ./movies-backend/.env`.
+3. Update the `./movies-backend/.env` file with the connection URL's to your database instance.
+4. Run `cp ./movies-frontend/.env.sample ./movies-frontend/.env`.
+5. You should not need to make changes to the `./movies-frontend/.env` file unless you want to connect to a backend at a location other than `http://localhost:5000`.
+6. Run `npm install` to install project dependencies.
+7. Run `npm run start:dev` in `/movies-backend` to start your server in development mode.
+8. Run `npm start` in `/movies-frontend` to launch project locally.
+
+## Screenshots
+
 ![movie homepage](https://images.ctfassets.net/c7lxnbtvvcxm/3xzgFVIxgNM4H53CsJkKJa/64c51046aa810105e3ef4af77867a6f7/WeLoveMovies.png)
 
 ## Technologies
