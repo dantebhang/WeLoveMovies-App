@@ -1,7 +1,7 @@
 # We Love Movies Full-Stack Application
 
 WeLoveMovies is a web application which involves a database and routes for users to gain access to data about movies, theaters, and reviews.
-A provided React [front-end application](https://github.com/Thinkful-Ed/starter-movie-front-end) was incorporated to my created [back-end](https://github.com/dantebhang/WeLoveMovies-backend) to deploy a full-stack application. The client side and server side were deployed with Heroku. <br>
+A provided React [front-end application](https://github.com/Thinkful-Ed/starter-movie-front-end) was incorporated to my created [back-end](https://github.com/dantebhang/WeLoveMovies-backend) to deploy a full-stack application.  <br>
 <br>
 [Live demo](https://movies-frontend-db.herokuapp.com/)
 
@@ -9,4 +9,4 @@ A provided React [front-end application](https://github.com/Thinkful-Ed/starter-
 
 ## Technologies
 
-Built with Knex, PostgreSQL, Express and Heroku
+Built with React.js, JavaScript, HTML, CSS, Knex, PostgreSQL, Express and deployed on Heroku
