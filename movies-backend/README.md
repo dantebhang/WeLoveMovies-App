@@ -1,4 +1,4 @@
-# API for We Love Movies
+# Server-side of WeLoveMovies
 
 Engineered a database and RESTful API with CRUD operations allowing users to access data about the latest movies, theaters, and reviews.
 
