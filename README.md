@@ -3,6 +3,7 @@
 >WeLoveMovies is a web full-stack application which involves a database and routes for users to gain access to information and reviews on movies and what is currently playing in theaters. 
 A provided React [front-end application](https://github.com/Thinkful-Ed/starter-movie-front-end) was incorporated to my [back-end](https://github.com/dantebhang/WeLoveMovies-backend) project to give a more visual representation of the server-side implementation.  <br>
 <br>
+
 [Live demo](https://movies-frontend-db.herokuapp.com/)
 
 ## Installation 
